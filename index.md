@@ -1,29 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Cheese Land
 
 You can use the [editor on GitHub](https://github.com/patricki4473/patrickino.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Cheese
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cheese is tasty, and is usually made out of the milk of an animal. It is a dairy project
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-- List
-
-- Bulleted
-
-1. Numbered
-2. List
+# Some Good Stuff About Cheese
+- It taste soo good
+- I think it's not that bad for you
+- cheese, cheese, **CHEESE**
+- **I KNOW ONE THING ONLY** **I** **_LOVE_**
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](http://vignette1.wikia.nocookie.net/healthyrecipes/images/4/41/Swiss_cheese.png/revision/latest?cb=20100603101437)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
